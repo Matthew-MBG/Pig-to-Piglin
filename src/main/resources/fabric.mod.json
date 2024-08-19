@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "pig_to_piglin",
+	"version": "${version}",
+	"name": "Pig to Piglin",
+	"description": "Pig to Piglin is a simple mod, originally intended to make visiting The Nether possible in Skyblock without the starter chest.",
+	"authors": [
+		"Matthew_MBG"
+	],
+	"contact": {
+		"homepage": "https://discord.com/users/563357621109915679/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/pig_to_piglin/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.matthew_mbg.pig_to_piglin.PigToPiglin"
+		]
+	},
+	"mixins": [
+		"pig_to_piglin.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
