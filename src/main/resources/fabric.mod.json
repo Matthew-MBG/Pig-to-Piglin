@@ -3,13 +3,14 @@
 	"id": "pig_to_piglin",
 	"version": "${version}",
 	"name": "Pig to Piglin",
-	"description": "Pig to Piglin is a simple mod, originally intended to make visiting The Nether possible in Skyblock without the starter chest.",
+	"description": "Pig to Piglin is a simple mod, mainly AI generated, which is intended to make visiting The Nether possible in Skyblock without the starter chest.",
 	"authors": [
 		"Matthew_MBG"
 	],
 	"contact": {
 		"homepage": "https://discord.com/users/563357621109915679/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Matthew-MBG/Pig-to-Piglin",
+		"issues": "https://github.com/Matthew-MBG/Pig-to-Piglin/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/pig_to_piglin/icon.png",
