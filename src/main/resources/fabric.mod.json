@@ -13,7 +13,7 @@
 		"issues": "https://github.com/Matthew-MBG/Pig-to-Piglin/issues"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/pig_to_piglin/icon.png",
+	"icon": "assets/pig_to_piglin/pig_to_piglin_icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
